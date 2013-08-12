@@ -18,5 +18,6 @@ FITUR
 - Kalkulator
 
 REQUIREMENTS
-- Yii 1.13
-- PHP 5.3+
+- Yii 1.13 or above
+- PHP 5.3 or above
+- PostGreSQL 8.1 or above
