@@ -1,4 +1,4 @@
-isims
+ISIMS - SUB SISTEM PENILAIAN DAN MONITORING PEMBELAJARAN
 =====
 ISIMS (Sistem Informasi Manajemen Sekolah Dasar) 
 merupakan perangkat lunak untuk mengelola
