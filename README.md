@@ -7,7 +7,7 @@ kenaikan kelas dan monitoring pembelajaran.
 Perangkat lunak ini bersifat open source dan 
 di bangun menggunakan YII Framework.
 
-FITUR 
+FEATURES
 - Manajemen Monitoring Pembelajaran 
 - Pengaturan Website Dinamis 
 - Manajemen Nilai dan Raport 
