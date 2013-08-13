@@ -47,7 +47,8 @@ INSTALLATION
 USER MANAJEMEN
 Admin (Username: ocim | Password: ocim)
 
-
+TRY OUT DEMO
+Comming Soon ... .
 
 _____________________________________________________________________________________
 
