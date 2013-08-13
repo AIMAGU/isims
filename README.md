@@ -45,10 +45,10 @@ INSTALLATION
 - Website siap digunakan
 
 USER MANAJEMEN
-Admin (Username: ocim | Password: ocim)
+* Admin (Username: ocim | Password: ocim)
 
 TRY OUT DEMO
-Comming Soon ... .
+* Comming Soon ... .
 
 _____________________________________________________________________________________
 
