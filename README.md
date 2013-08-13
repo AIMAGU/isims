@@ -34,7 +34,7 @@ INSTALLATION
    * 'db'=>array(
 		'connectionString' => 'pgsql:host=localhost;port=5432;dbname=NAMA_DATABASE',
 		'emulatePrepare' => true,
-		'username' => 'NAMA_USERNAME',
+		'username' => 'USERNAME',
 		'password' => 'PASSWORD',
 		'charset' => 'utf8',
 		'enableProfiling'=>true,
