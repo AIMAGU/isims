@@ -23,15 +23,15 @@ REQUIREMENTS
 - PostGreSQL 8.1 or above
 
 INSTALLATION
-1. Download master yii framework (http://www.yiiframework.com/download/)
-2. Ekstrak file master yii framework ke dalam webserver (Ex: localhost/yii/master/)
-3. Ekstrak file isims dalam cd ke webserver (Ex: localhost/yii/isims/)
-4. Buka File index pada main direktori isims
-   - Ubah baris ke-4 menjadi $yii=dirname(__FILE__).'/../master/framework/yii.php';
-5. Import database /isims/protected/data/isims-db.sql (PostGreSQL 8.1 or above)
-6. Buka konfigurasi .../isims/protected/config/main.php
-   - Ubah baris 111-121 sesuai kebutuhan
-   - 'db'=>array(
+- Download master yii framework (http://www.yiiframework.com/download/)
+- Ekstrak file master yii framework ke dalam webserver (Ex: localhost/yii/master/)
+- Ekstrak file isims dalam cd ke webserver (Ex: localhost/yii/isims/)
+- Buka File index pada main direktori isims
+   * Ubah baris ke-4 menjadi $yii=dirname(__FILE__).'/../master/framework/yii.php';
+- Import database /isims/protected/data/isims-db.sql (PostGreSQL 8.1 or above)
+- Buka konfigurasi .../isims/protected/config/main.php
+   * Ubah baris 111-121 sesuai kebutuhan
+   * 'db'=>array(
 		'connectionString' => 'pgsql:host=localhost;port=5432;dbname=NAMA_DATABASE',
 		'emulatePrepare' => true,
 		'username' => 'NAMA_USERNAME',
@@ -41,8 +41,8 @@ INSTALLATION
 		'enableParamLogging' => true,
 		'schemaCachingDuration' => 180,
 	 ),
-7. Buka Browser --> localhost/yii/isims/ atau www/yii/isims/
-8. Website siap digunakan
+- Buka Browser --> localhost/yii/isims/ atau www/yii/isims/
+- Website siap digunakan
 
 USER MANAJEMEN
 Admin (Username: ocim | Password: ocim)
