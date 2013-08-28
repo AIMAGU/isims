@@ -48,9 +48,9 @@ USER MANAJEMEN
 * Admin (Username: ocim | Password: ocim)
 
 TRY OUT DEMO
-* http://aimagu.blogspot.com
+* http://aimagu.blogspot.com/2013/08/yii-framework-sistem-informasi.html
 
 _____________________________________________________________________________________
 
 ISIMS CMS OPEN SOURCE (BSD License)
-Email: nurrochim@civitas.uns.ac.id
+Email: blogaimagu@gmail.com | nurrochim@live.com
