@@ -44,13 +44,16 @@ INSTALLATION
 - Buka Browser --> localhost/yii/isims/ atau www/yii/isims/
 - Website siap digunakan
 
+TRY OUT DEMO
+* http://www.aimagu.com/isims
+
 USER MANAJEMEN
 * Admin (Username: ocim | Password: ocim)
 
-TRY OUT DEMO
-* http://aimagu.blogspot.com/2013/08/yii-framework-sistem-informasi.html
-
+DATABASE
+* http://blog.aimagu.com/2013/08/yii-framework-sistem-informasi.html
 _____________________________________________________________________________________
 
 ISIMS CMS OPEN SOURCE (BSD License)
-Email: blogaimagu@gmail.com | nurrochim@live.com
+Email: admin@aimagu.com
+Website: www.aimagu.com
